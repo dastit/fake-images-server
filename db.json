@@ -14,7 +14,7 @@
         ]
       },
       {
-        "id": 1, 
+        "id": 2, 
         "uri": "http://test.site/someurl/api/v1/2.png",
         "imageClasses":[
             {"id":1, "location": {"x": 12, "y":20, "w":100, "h":100}},
@@ -22,7 +22,7 @@
         ]
       },
       {
-        "id": 1, 
+        "id": 3, 
         "uri": 
         "http://test.site/someurl/api/v1/3.jpg",
         "imageClasses":[
